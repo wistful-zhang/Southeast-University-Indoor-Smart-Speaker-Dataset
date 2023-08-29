@@ -1,10 +1,10 @@
-# TJNU-Large-Scale-Cloud-Detection-Database
+# Southeast University Indoor Smart Speaker Dataset
 
-TJNU Large-Scale Cloud Detection Database (TLCDD) is collected from 2019 to 2021 in nine provinces of China, which includes Tianjin, Anhui, Sichuan, Gansu, Shandong, Hebei, Liaoning, Jiangsu, and Hainan. It contains 5000 ground-based cloud images and their corresponding cloud masks. The TLCDD is composed of 4208 training images and 792 test images. The cloud images are captured by visual sensors and stored in the PNG format with the pixel resolution of 512×512.  All the images are cooperatively annotated by the meteorologists and the cloud-related researchers from College of Electronic and Communication Engineering, Tianjin Normal University, Tianjin, China, and Meteorological Observation Centre, China Meteorological Administration, Beijing, China. The TLCDD will be provided free of charge to cloud-related researchers in order to promote research. Hereunder, some ground-based cloud images and their cloud masks are presented.
+Southeast University Indoor Smart Speaker Dataset (SUSSD) dataset, which captures usage data from a large number of smart speaker devices. In addition, they capture images of various smart speakers in a room using camera sensors and manually annotate them. The SUSSD dataset comprises of 580 PNG format images with a resolution of 1920×1080. To facilitate training and evaluation, the dataset is randomly split into a training set consisting of 300 images and a test set consisting of 280 images. This dataset can be used for further study and can be applied in their work to enhance the accuracy of smart home device detection systems.
 
 ![image](image.jpg)
 
 # Download
-Please download, fill and sign the TLCDD Agreement and return the whole document to zhong.zhang8848@gmail.com or zhangz@tjnu.edu.cn. The downloaded URL and password will be contained in the replied email.
+Please download, fill and sign the SUSSD Agreement and return the whole document to m648167095@gmail.com. The downloaded URL and password will be contained in the replied email.
 
 
